@@ -1,4 +1,4 @@
 from django.contrib import admin
-from models import SpPages
+from models import SpPage
 
-admin.site.register(SpPages)
+admin.site.register(SpPage)
